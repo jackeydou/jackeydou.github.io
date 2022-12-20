@@ -4,7 +4,7 @@
 const config = {
   title: 'jackey.dou\'s blog',
   description: 'This is a playground for me.',
-  base: '/blog/'
+  // base: '/blog/'
 }
 
 export default config;
